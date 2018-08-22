@@ -9,7 +9,7 @@ public class AdmStaffPanel extends JPanel {
 
     // Attributes of the staff panel
 
-    private JButton addStaff = new JButton("Add Staff Menber");
+    private JButton addStaff = new JButton("Add Staff Member");
 
     public AdmStaffPanel(){
         // Setting the layout
